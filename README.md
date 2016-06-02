@@ -1,2 +1,2 @@
-PookeStudio's Blog</br>
+<strong>PookeStudio's Blog</strong></br>
 www.pooke.org
