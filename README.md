@@ -1,2 +1,2 @@
-pookestudio.github.io
 PookeStudio's Blog
+www.pooke.org
