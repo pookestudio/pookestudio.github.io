@@ -52,10 +52,7 @@ function QueryWhoisServer($whoisserver, $domain) {
 	<div class="container">
 		<div class="jumbotron vertical-center">
 			<div class="container">
-				<h1>Whois 查询
-					<small>Fucker's Whois</small>
-				</h1><br />
-				<p>dalao 来输个米</p>
+				<h2>Whois 查询</h2><br />
 				<form id="tform" class="form-horizontal" role="form" action="<?php $_SERVER['PHP_SELF'];?>" method="GET">
 					<div class="form-group">
 						<div class="input-group input-group-lg">
