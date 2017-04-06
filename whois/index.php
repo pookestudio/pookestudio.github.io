@@ -52,14 +52,14 @@ function QueryWhoisServer($whoisserver, $domain) {
 	<div class="container">
 		<div class="jumbotron vertical-center">
 			<div class="container">
-				<h2>Whois 查询</h2><br />
+				<h2>Whois</h2><br />
 				<form id="tform" class="form-horizontal" role="form" action="<?php $_SERVER['PHP_SELF'];?>" method="GET">
 					<div class="form-group">
 						<div class="input-group input-group-lg">
 							<span class="input-group-addon">></span>
 							<input type="text" id="domain" name="domain" class="form-control search-query" placeholder="Domain name" required>
 								<span class="input-group-btn">
-									<input class="btn btn-primary" type="submit" value="我要查询">
+									<input class="btn btn-primary" type="submit" value="search">
 								</span>
 						</div>
 					</div>
